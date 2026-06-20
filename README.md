@@ -1,4 +1,5 @@
 # Lakshaybhatia-demo
 this is my first git repository
 <br>
-Author: lakshay bhatia
+Author: lakshay bhatia is king
+
